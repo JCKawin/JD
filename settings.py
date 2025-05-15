@@ -1,1 +1,1 @@
-screen_resolution = (1280 , 720)
+screen_resolution = (600,800)
